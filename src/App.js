@@ -19,7 +19,7 @@ function App() {
 
   const fetchImages = () => {
     const accessKey = process.env.REACT_APP_ACCESSKEY;
-    fetch('https://api.unsplash.com/photos/?client_id=' + accessKey)
+    fetch('https://api.unsplash.com/photos/random?client_id=' + accessKey + '&count=10')
       .then(res => res.json())
       .then(data => {
         setImages([...images, ...data]);
