@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/React-Unsplash-Infinite-Scroll/static/js/main.c4e405a0.chunk.js",
-    "main.js.map": "/React-Unsplash-Infinite-Scroll/static/js/main.c4e405a0.chunk.js.map",
+    "main.js": "/React-Unsplash-Infinite-Scroll/static/js/main.2d16adf9.chunk.js",
+    "main.js.map": "/React-Unsplash-Infinite-Scroll/static/js/main.2d16adf9.chunk.js.map",
     "runtime-main.js": "/React-Unsplash-Infinite-Scroll/static/js/runtime-main.bcf8f662.js",
     "runtime-main.js.map": "/React-Unsplash-Infinite-Scroll/static/js/runtime-main.bcf8f662.js.map",
     "static/js/2.894ed633.chunk.js": "/React-Unsplash-Infinite-Scroll/static/js/2.894ed633.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.bcf8f662.js",
     "static/js/2.894ed633.chunk.js",
-    "static/js/main.c4e405a0.chunk.js"
+    "static/js/main.2d16adf9.chunk.js"
   ]
 }
