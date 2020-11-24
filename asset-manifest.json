@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-Unsplash-Infinite-Scroll/static/js/main.c4e405a0.chunk.js",
+    "main.js.map": "/React-Unsplash-Infinite-Scroll/static/js/main.c4e405a0.chunk.js.map",
+    "runtime-main.js": "/React-Unsplash-Infinite-Scroll/static/js/runtime-main.bcf8f662.js",
+    "runtime-main.js.map": "/React-Unsplash-Infinite-Scroll/static/js/runtime-main.bcf8f662.js.map",
+    "static/js/2.894ed633.chunk.js": "/React-Unsplash-Infinite-Scroll/static/js/2.894ed633.chunk.js",
+    "static/js/2.894ed633.chunk.js.map": "/React-Unsplash-Infinite-Scroll/static/js/2.894ed633.chunk.js.map",
+    "static/js/3.e9009dc1.chunk.js": "/React-Unsplash-Infinite-Scroll/static/js/3.e9009dc1.chunk.js",
+    "static/js/3.e9009dc1.chunk.js.map": "/React-Unsplash-Infinite-Scroll/static/js/3.e9009dc1.chunk.js.map",
+    "index.html": "/React-Unsplash-Infinite-Scroll/index.html",
+    "static/js/2.894ed633.chunk.js.LICENSE.txt": "/React-Unsplash-Infinite-Scroll/static/js/2.894ed633.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf8f662.js",
+    "static/js/2.894ed633.chunk.js",
+    "static/js/main.c4e405a0.chunk.js"
+  ]
+}
